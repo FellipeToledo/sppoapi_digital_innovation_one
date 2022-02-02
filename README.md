@@ -1,6 +1,6 @@
 <h2>Projeto simples de gerenciamento de sistema de transporte público por ônibus (SPPO) em API REST com Spring Boot</h2>
 
-Desenvolvimento um pequeno sistema para o gerenciamento de Consórcios e empresas do SPPO através de uma API REST, criada com o Spring Boot.
+Desenvolvimento de um pequeno sistema para o gerenciamento de Consórcios e empresas do SPPO através de uma API REST, criada com o Spring Boot.
 
 As seguintes dependências foram adicionadas ao projeto:
 
